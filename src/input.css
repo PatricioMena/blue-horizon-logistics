@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .hero {
+  @apply bg-gradient-to-r from-[rgba(255, 255, 255, 0.9)] via-rgba(255, 255, 255, 0.9) to-transparent;
+} */
